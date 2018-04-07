@@ -1,2 +1,2 @@
-# personal-site
+# maxswartwout.com
 My personal website
